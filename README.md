@@ -15,4 +15,4 @@
 
 ### Instalado o youtube-dl você só precisa passar o link de vídeo do YouTube para youtube-dl:
 
-$ youtube-dl https://www.youtube.com/
+$ youtube-dl youtube.com
